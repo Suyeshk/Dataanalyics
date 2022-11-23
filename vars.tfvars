@@ -1,0 +1,8 @@
+region                = "us-east-1"
+project               = "enviroment_dev_ec2_multi_ip"
+environment           = "testing"
+username              = "suyesh"
+bucket_name           = "newstoragebuctest1"
+gateway_ip_address    = "44.210.113.224"
+gateway_name          = "new"
+gateway_timezone      = "GMT"
